@@ -1,1 +1,4 @@
-###http://1.1.1.1/sddd###
+# https://www.robotstxt.org/robotstxt.html
+# ###https://api.ramtd.net/api/json/vpn/###
+User-agent: *
+Disallow:
