@@ -1,14 +1,1 @@
-{
-"id":1,
-"instagram_link":"https://instagram.com/portgozar",
-"web":"https://portgozar.com/",
-"buy_link":"https://portgozar.com/plans",
-"forget_link":"https://portgozar.com/forget",
-"api_url":"https://api.ramtd.net/api/json/vpn/",
-"desktop_version":"1.0.0",
-"android_version":"1.0.0",
-"desktop_file":"https://portgozar.com/portgozar-1.0.0.exe",
-"android_file":"https://portgozar.com/portgozar-1.0.0.apk",
-"telegram":"https://telegram.com/portgozar",
-"telegram_support":"https://telegram.com/portgozar_support"
-}
+https://api.ramtd.net/api/json/vpn/
