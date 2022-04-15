@@ -1,1 +1,1 @@
-https://api.ramtd.net/api/json/vpn/app
+https://api.portgozar.com/app
