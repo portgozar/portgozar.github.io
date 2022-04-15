@@ -1,1 +1,1 @@
-https://api.ramtd.net/api/json/vpn/
+https://api.ramtd.net/api/json/vpn/app
