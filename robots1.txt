@@ -1,1 +1,2 @@
+https://api.portgozar.xyz/app
 https://api2.portgozar.xyz:22289/app
